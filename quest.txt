@@ -1,0 +1,65 @@
+// === MAIN QUESTLINE ===
+setstage MQ101 200   ; Unbound
+setstage MQ102 160   ; Before the Storm
+setstage MQ103 190   ; Bleak Falls Barrow
+setstage MQ104 160   ; Dragon Rising
+setstage MQ105 160   ; The Way of the Voice
+setstage MQ105Ustengrav 60
+player.additem 0003ADA4 1   ; Horn of Jurgen Windcaller (if needed)
+setstage MQ106 200   ; A Blade in the Dark
+setstage MQ201 255   ; Diplomatic Immunity
+setstage MQ202 180   ; A Cornered Rat
+setstage MQ203 280   ; Alduin's Wall
+setstage MQ204 200   ; The Throat of the World
+setstage MQ205 100   ; Elder Knowledge
+setstage DA04 100    ; Discerning the Transmundane (if required for scroll)
+setstage MQ206 240   ; Alduin's Bane
+setstage MQ301 220   ; The Fallen
+setstage MQPaarthurnax 100  ; Paarthurnax (resolve Blades conflict)
+setstage MQ303 300   ; The World-Eater's Eyrie
+setstage MQ304 200   ; Sovngarde
+setstage MQ305 260   ; Dragonslayer
+setstage MQ305 100     ; Starts the final battle
+setstage MQ305 160     ; Alduin defeated
+setstage MQ305 200     ; Talk with heroes
+setstage MQ305 260     ; Quest officially ends
+
+
+// === THIEVES GUILD QUESTLINE ===
+setstage TG00 200   ; A Chance Arrangement
+setstage TG01 200   ; Taking Care of Business
+setstage TG02 200   ; Loud and Clear
+setstage TG03 200   ; Dampened Spirits
+setstage TG04 200   ; Scoundrel’s Folly
+setstage TG05 200   ; Speaking With Silence
+setstage TG06 200   ; Hard Answers
+setstage TG07 200   ; The Pursuit
+setstage TG08A 200  ; Trinity Restored
+setstage TG08B 200  ; Blindsighted
+setstage TG09 200   ; Darkness Returns
+
+// === COLLEGE OF WINTERHOLD QUESTLINE ===
+setstage MG01 200   ; First Lessons
+setstage MG02 200   ; Under Saarthal
+setstage MG03 200   ; Hitting the Books
+setstage MG04 200   ; Good Intentions
+setstage MG05 200   ; Revealing the Unseen
+setstage MG06 200   ; Containment
+setstage MG07 200   ; The Staff of Magnus
+setstage MG08 200   ; The Eye of Magnus
+
+// === DARK BROTHERHOOD QUESTLINE ===
+setstage DB01 200   ; Innocence Lost
+setstage DB02 200   ; With Friends Like These...
+setstage DB02A 200  ; Sanctuary
+setstage DB03 200   ; Mourning Never Comes
+setstage DB04 200   ; Whispers in the Dark
+setstage DB05 200   ; The Silence Has Been Broken
+setstage DB06 200   ; Bound Until Death
+setstage DB07 200   ; Breaching Security
+setstage DB08 200   ; The Cure for Madness
+setstage DB09 200   ; To Kill an Empire
+setstage DB10 200   ; Hail Sithis!
+
+// === OPTIONAL ITEMS ===
+player.additem 000139B9 1   ; Ebony Blade (Dark Brotherhood reward, if missed)
