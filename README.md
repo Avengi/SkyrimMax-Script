@@ -2,12 +2,13 @@
 
 ## For: The Elder Scrolls V: Skyrim (PC, any version with console access)
 
-Max out skills, unlock every perk, set your character to level 85, and instantly complete major questlines—without mods.
+Max out skills, learn every spell, unlock every perk, set your character to level 85, and instantly complete major questlines—without mods.
 
 ## Files Included
 
 - `max.txt` — Sets all skills to 100, unlocks every perk, sets level 85, health, stamina, and magicka to 500.
 - `quest.txt` — Completes Main Quest (Dragonborn), Thieves Guild, College of Winterhold, Dark Brotherhood.
+- `spell.txt` — Adds (teaches) all spells and shouts, completes any related quest.
 
 ## Installation & Usage
 
