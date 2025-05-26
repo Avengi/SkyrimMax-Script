@@ -1,4 +1,4 @@
-These are text files that contain console commands for Skyrim. They can be placed inside Skyrims folder and ran as bat files using Skyrim console ("bat quest","bat max")
+These are text files that contain console commands for Skyrim. Place them inside Skyrim folder then run them ingame via console ("bat quest","bat max")
 
 "bat quest"
 Auto complete the following major questlines; Main Quest (Draognborn) Thieves Guild, College of Winterhold, Dark Brotherhood.
