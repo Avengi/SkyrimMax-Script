@@ -12,11 +12,13 @@ Max out skills, learn every spell, unlock every perk, set your character to leve
 
 ## Installation & Usage
 
-1. Place both `max.txt` and `quest.txt` in your Skyrim installation folder (where `Skyrim.exe` is).
+1. Place `max.txt`, `quest.txt`, and `spell.txt` in your Skyrim installation folder (where `Skyrim.exe` is).
 2. Start a new game and save.
 3. Open the console (`~` key).
 4. Enter: `bat max` and press Enter.
-5. Enter: `bat quest` and press Enter.
-6. Enjoy your maxed-out character with completed quests.
+5. Enter: `bat spell` and press Enter.
+6. Enter: `bat quest` and press Enter.
+7. Enjoy your maxed-out character with completed quests, all spells, and all shouts.
 
 > **Note:** No mods required—these are native console commands. PC version only.
+
