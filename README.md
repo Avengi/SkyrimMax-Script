@@ -1,4 +1,4 @@
-These are text files that contain console commands for Skyrim. Place them inside Skyrim folder then run them ingame via console ("bat quest","bat max")
+These are text files that contain console commands for Skyrim. They are meant to skip content you've already done before- without needing or using mods. Its all run from the native console. Place them inside Skyrim folder then run them ingame via console ("bat quest","bat max")
 
 "bat quest"
 Auto complete the following major questlines; Main Quest (Draognborn) Thieves Guild, College of Winterhold, Dark Brotherhood.
