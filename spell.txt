@@ -1,0 +1,240 @@
+; Alteration spells
+player.addspell 00043324 ; Candlelight
+player.addspell 0005AD5C ; Oakflesh
+player.addspell 00043323 ; Magelight
+player.addspell 0005AD5D ; Stoneflesh
+player.addspell 000211EE ; Detect Life
+player.addspell 00051B16 ; Ironflesh
+player.addspell 0001A4CC ; Telekinesis
+player.addspell 00109111 ; Transmute
+player.addspell 0005D175 ; Waterbreathing
+player.addspell 000211EF ; Detect Dead
+player.addspell 0005AD5E ; Ebonyflesh
+player.addspell 0005AD5F ; Paralyze
+player.addspell 000CDB70 ; Dragonhide
+player.addspell 000B62E6 ; Mass Paralysis
+player.addspell 000DA746 ; Equilibrium
+
+; Conjuration spells
+player.addspell 000211EB ; Bound Sword
+player.addspell 000640B6 ; Conjure Familiar
+player.addspell 0007E8E1 ; Raise Zombie
+player.addspell 000211EC ; Bound Battleaxe
+player.addspell 000204C3 ; Conjure Flame Atronach
+player.addspell 0009CE26 ; Flaming Familiar
+player.addspell 00065BD7 ; Reanimate Corpse
+player.addspell 0004DBA4 ; Soul Trap
+player.addspell 0006D22C ; Banish Daedra
+player.addspell 000211ED ; Bound Bow
+player.addspell 000204C4 ; Conjure Frost Atronach
+player.addspell 00096D94 ; Revenant
+player.addspell 0006F953 ; Command Daedra
+player.addspell 0010FC16 ; Conjure Dragon Priest
+player.addspell 0010DDEC ; Conjure Dremora Lord
+player.addspell 000204C5 ; Conjure Storm Atronach
+player.addspell 00096D95 ; Dread Zombie
+player.addspell 0006F952 ; Expel Daedra
+player.addspell 0007E5D5 ; Flame Thrall
+player.addspell 0007E8DF ; Dead Thrall
+player.addspell 0007E5D6 ; Frost Thrall
+player.addspell 0007E5D7 ; Storm Thrall
+player.addspell 000AB23D ; Spectral Arrow
+player.addspell 0006A153 ; Summon Arniel's Shade
+player.addspell 00099F39 ; Summon Unbound Dremora
+
+; Illusion spells
+player.addspell 00021143 ; Clairvoyance
+player.addspell 0004DEE8 ; Courage
+player.addspell 0004DEEB ; Fury
+player.addspell 0004DEE9 ; Calm
+player.addspell 0004DEEA ; Fear
+player.addspell 0008F3EB ; Muffle
+player.addspell 0004DEEE ; Frenzy
+player.addspell 0004DEEC ; Rally
+player.addspell 00027EB6 ; Invisibility
+player.addspell 0004DEED ; Pacify
+player.addspell 0004DEEF ; Rout
+player.addspell 0007E8DD ; Call to Arms
+player.addspell 0007E8DB ; Harmony
+player.addspell 0007E8DE ; Hysteria
+player.addspell 0007E8DA ; Mayhem
+player.addspell 000B323E ; Vision of the Tenth Eye
+
+; Restoration spells
+player.addspell 00012FCC ; Healing
+player.addspell 00013018 ; Lesser Ward
+player.addspell 0002F3B8 ; Fast Healing
+player.addspell 0004D3F2 ; Healing Hands
+player.addspell 000211F1 ; Steadfast Ward
+player.addspell 0004B146 ; Turn Lesser Undead
+player.addspell 000B62EF ; Close Wounds
+player.addspell 000211F0 ; Greater Ward
+player.addspell 00012FD2 ; Heal Other
+player.addspell 0004D3F8 ; Repel Lesser Undead
+player.addspell 0005DD5D ; Turn Undead
+player.addspell 0005312D ; Circle of Protection
+player.addspell 000B62EE ; Grand Healing
+player.addspell 0005DD60 ; Repel Undead
+player.addspell 0005DD5E ; Turn Greater Undead
+player.addspell 0008C1AB ; Bane of the Undead
+player.addspell 000E0CCF ; Guardian Circle
+
+; Destruction spells
+player.addspell 00012FCD ; Flames
+player.addspell 0002B96B ; Frostbite
+player.addspell 0002DD2A ; Sparks
+player.addspell 0005DB90 ; Fire Rune
+player.addspell 00012FD0 ; Firebolt
+player.addspell 0006796F ; Frost Rune
+player.addspell 0002B96C ; Ice Spike
+player.addspell 0002DD29 ; Lightning Bolt
+player.addspell 00067970 ; Lightning Rune
+player.addspell 00045F9D ; Chain Lightning
+player.addspell 0001C789 ; Fireball
+player.addspell 0003AE9F ; Flame Cloak
+player.addspell 0003AEA2 ; Frost Cloak
+player.addspell 00045F9C ; Ice Storm
+player.addspell 0003AEA3 ; Lightning Cloak
+player.addspell 0010F7EC ; Icy Spear
+player.addspell 0010F7ED ; Incinerate
+player.addspell 0010F7EE ; Thunderbolt
+player.addspell 00035D7F ; Wall of Flames
+player.addspell 00035D80 ; Wall of Frost
+player.addspell 00035D81 ; Wall of Storms
+player.addspell 0007E8E4 ; Blizzard
+player.addspell 0007A82B ; Fire Storm
+player.addspell 0007E8E5 ; Lightning Storm
+player.addspell 0006A104 ; Arniel's Convection
+player.addspell 0008D5BF ; Vampiric Drain Level 1
+player.addspell 0008D5C0 ; Vampiric Drain Level 2
+player.addspell 0008D5C1 ; Vampiric Drain Level 3
+player.addspell 0008D5C2 ; Vampiric Drain Level 4
+
+; Complete College of Winterhold master spell quests
+setstage MGRitual01 200 ; Destruction Ritual Spell completed
+setstage MGRitual02 200 ; Illusion Ritual Spell completed
+setstage MGRitual03 200 ; Conjuration Ritual Spell completed
+setstage MGRitual04 200 ; Restoration Ritual Spell completed
+setstage MGRitual05 200 ; Alteration Ritual Spell completed
+
+; Unlock all Dragon Shouts (teach all words and unlock)
+player.teachword 13E22 ; FUS = Force (Unrelenting Force)
+player.unlockword 13E22
+player.teachword 13E23 ; RO = Balance (Unrelenting Force)
+player.unlockword 13E23
+player.teachword 13E24 ; DAH = Push (Unrelenting Force)
+player.unlockword 13E24
+
+player.teachword 60294 ; LAAS = Life (Aura Whisper)
+player.unlockword 60294
+player.teachword 60295 ; YAH = Seek (Aura Whisper)
+player.unlockword 60295
+player.teachword 60296 ; NIR = Hunt (Aura Whisper)
+player.unlockword 60296
+
+player.teachword 602A3 ; IIZ = Ice (Ice Form)
+player.unlockword 602A3
+player.teachword 602A4 ; SLEN = Flesh (Ice Form)
+player.unlockword 602A4
+player.teachword 602A5 ; NUS = Statue (Ice Form)
+player.unlockword 602A5
+
+player.teachword 6029A ; STRUN = Storm (Storm Call)
+player.unlockword 6029A
+player.teachword 6029B ; BAH = Wrath (Storm Call)
+player.unlockword 6029B
+player.teachword 6029C ; QO = Lightning (Storm Call)
+player.unlockword 6029C
+
+player.teachword 20E17 ; YOL = Fire (Fire Breath)
+player.unlockword 20E17
+player.teachword 20E18 ; TOOR = Inferno (Fire Breath)
+player.unlockword 20E18
+player.teachword 20E19 ; SHUL = Sun (Fire Breath)
+player.unlockword 20E19
+
+player.teachword 48ACA ; TIID = Time (Slow Time)
+player.unlockword 48ACA
+player.teachword 48ACB ; KLO = Sand (Slow Time)
+player.unlockword 48ACB
+player.teachword 48ACC ; UL = Eternity (Slow Time)
+player.unlockword 48ACC
+
+player.teachword 2F7BB ; WULD = Whirlwind (Whirlwind Sprint)
+player.unlockword 2F7BB
+player.teachword 2F7BC ; NAH = Fury (Whirlwind Sprint)
+player.unlockword 2F7BC
+player.teachword 2F7BD ; KEST = Tempest (Whirlwind Sprint)
+player.unlockword 2F7BD
+
+player.teachword 60291 ; RAAN = Animal (Animal Allegiance)
+player.unlockword 60291
+player.teachword 60292 ; MIR = Allegiance (Animal Allegiance)
+player.unlockword 60292
+player.teachword 60293 ; TAH = Pack (Animal Allegiance)
+player.unlockword 60293
+
+player.teachword 3291D ; SU = Air (Elemental Fury)
+player.unlockword 3291D
+player.teachword 3291E ; GRAH = Battle (Elemental Fury)
+player.unlockword 3291E
+player.teachword 3291F ; DUN = Fury (Elemental Fury)
+player.unlockword 3291F
+
+player.teachword 32917 ; FEIM = Fade (Become Ethereal)
+player.unlockword 32917
+player.teachword 32918 ; ZI = Spirit (Become Ethereal)
+player.unlockword 32918
+player.teachword 32919 ; GRON = Bind (Become Ethereal)
+player.unlockword 32919
+
+player.teachword 5D16C ; FO = Frost (Frost Breath)
+player.unlockword 5D16C
+player.teachword 5D16D ; KRAH = Cold (Frost Breath)
+player.unlockword 5D16D
+player.teachword 5D16E ; DIIN = Freeze (Frost Breath)
+player.unlockword 5D16E
+
+player.teachword 602A0 ; ZUL = Voice (Throw Voice)
+player.unlockword 602A0
+player.teachword 602A1 ; MEY = Fool (Throw Voice)
+player.unlockword 602A1
+player.teachword 602A2 ; GUT = Far (Throw Voice)
+player.unlockword 602A2
+
+player.teachword 5FB95 ; ZUN = Weapon (Disarm)
+player.unlockword 5FB95
+player.teachword 5FB96 ; HAAL = Hand (Disarm)
+player.unlockword 5FB96
+player.teachword 5FB97 ; VIIK = Defeat (Disarm)
+player.unlockword 5FB97
+
+player.teachword 3CD31 ; LOK = Sky (Clear Skies)
+player.unlockword 3CD31
+player.teachword 3CD32 ; VAH = Spring (Clear Skies)
+player.unlockword 3CD32
+player.teachword 3CD33 ; KOOR = Summer (Clear Skies)
+player.unlockword 3CD33
+
+player.teachword 51960 ; HUN = Hero (Call of Valor)
+player.unlockword 51960
+player.teachword 51961 ; KAAR = Champion (Call of Valor)
+player.unlockword 51961
+player.teachword 51962 ; ZOOL = Legend (Call of Valor)
+player.unlockword 51962
+
+player.teachword 44251 ; JOOR = Mortal (Dragonrend)
+player.unlockword 44251
+player.teachword 44252 ; ZAH = Finite (Dragonrend)
+player.unlockword 44252
+player.teachword 44253 ; FRUL = Temporary (Dragonrend)
+player.unlockword 44253
+
+player.teachword 60297 ; KRII = Kill (Marked for Death)
+player.unlockword 60297
+player.teachword 60298 ; LUN = Leech (Marked for Death)
+player.unlockword 60298
+player.teachword 60299 ; AUS = Suffer (Marked for Death)
+player.unlockword 60299
+
+player.forceav dragonsouls 100 ; Give 100 dragon souls to fully unlock shouts
