@@ -1,13 +1,21 @@
-These are text files that contain console commands for Skyrim. They are meant to skip content you've already done before- without needing or using mods. Its all run from the native console. Place them inside Skyrim folder then run them ingame via console ("bat quest","bat max")
+# SkyrimMax-Script
 
-"bat quest"
-Auto complete the following major questlines; Main Quest (Draognborn) Thieves Guild, College of Winterhold, Dark Brotherhood.
+## For: The Elder Scrolls V: Skyrim (PC, any version with console access)
 
-"bat max"
-Set all skills to 100. Unlock every perk in the game. Set character level 85. Set health/stamina/magicka 500.
+Max out skills, unlock every perk, set your character to level 85, and instantly complete major questlines—without mods.
 
+## Files Included
 
-1. Place max.txt and quest.txt inside skyrim folder.
-2. Create new Skyrim save. Open console.
-3. Send command "bat max" and "bat quest"
-4. Profit.
+- `max.txt` — Sets all skills to 100, unlocks every perk, sets level 85, health, stamina, and magicka to 500.
+- `quest.txt` — Completes Main Quest (Dragonborn), Thieves Guild, College of Winterhold, Dark Brotherhood.
+
+## Installation & Usage
+
+1. Place both `max.txt` and `quest.txt` in your Skyrim installation folder (where `Skyrim.exe` is).
+2. Start a new game and save.
+3. Open the console (`~` key).
+4. Enter: `bat max` and press Enter.
+5. Enter: `bat quest` and press Enter.
+6. Enjoy your maxed-out character with completed quests.
+
+> **Note:** No mods required—these are native console commands. PC version only.
